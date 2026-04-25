@@ -1,0 +1,36 @@
+/Users/rhythmgulia/Downloads/gen-ai/multi_agent_system.py:20: LangChainDeprecationWarning: The class `ChatOllama` was deprecated in LangChain 0.3.1 and will be removed in 1.0.0. An updated version of the class exists in the `langchain-ollama package and should be used instead. To use it run `pip install -U `langchain-ollama` and import as `from `langchain_ollama import ChatOllama``.
+  llm = ChatOllama(
+============================================================
+ 🌍 Welcome to the AI Travel Planner Multi-Agent System! 🌍
+============================================================
+
+Tell us about your dream trip (e.g., 'A 3-day relaxing beach trip in Spain'):
+> 
+--- Starting Agent Execution Workflow ---
+
+✈️  [Agent 1: Destination Expert] Researching best spots...
+📅 [Agent 2: Itinerary Planner] Building day-to-day schedule...
+💰 [Agent 3: Budget Analyzer] Estimating costs and finalizing tips...
+
+============================================================
+ 🎉 YOUR FINAL TRAVEL PLAN 🎉
+============================================================
+### Day 1: Murcia, Spain
+- **Morning:** Visit Cabezas de Fjord Beach for stunning beaches and crystal-clear waters.
+- **Afternoon:** Experience the local fishing villages and enjoy swimming or snorkeling.
+
+### Day 2: Asturias, Spain
+- **Morning:** Explore Playa de la Gomera for a relaxing break in the clear Mediterranean climate.
+- **Afternoon:** Spend time lounging on the beach with views of the Atlantic Ocean.
+
+### Day 3: Almería, Spain
+- **Morning:** Visit La Jardín de Santa Cruz for green spaces and scenic viewpoints.
+- **Afternoon:** Depart from Almería by bus or train back to your accommodation. Enjoy the sunny days ahead.
+
+### Additional Tips:
+- **Daylighting:** Look for beaches that offer natural light, as daylight can be crucial for water activities.
+- **Weather:** Check the weather forecast before planning your trip to ensure you have suitable gear and clothing.
+- **Safety:** Always ensure you are aware of local safety rules and regulations while on the beach.
+
+This itinerary balances relaxation with some fun activities, providing a perfect blend of natural beauty and cultural experiences in Spain.
+============================================================
